@@ -1,0 +1,7 @@
+{
+  "name": "LittleCity.Editor",
+  "rootNamespace": "LittleCity.Editor",
+  "references": ["LittleCity.Runtime", "UnityEngine.UI"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "LittleCity.Tests",
+  "references": ["LittleCity.Runtime"],
+  "includePlatforms": ["Editor"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

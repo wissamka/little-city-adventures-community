@@ -1,0 +1,9 @@
+{
+  "name": "LittleCity.Runtime",
+  "rootNamespace": "LittleCity",
+  "references": [
+    "UnityEngine.UI",
+    "Unity.TextMeshPro"
+  ],
+  "autoReferenced": true
+}

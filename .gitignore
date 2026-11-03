@@ -1,0 +1,15 @@
+/Library/
+/Temp/
+/Obj/
+/Builds/
+/Logs/
+/UserSettings/
+/.vs/
+/.idea/
+*.csproj
+*.sln
+.DS_Store
+/Documentation/**/frames/
+/Documentation/**/*.png
+/Documentation/**/*.mp4
+/Documentation/**/*.wav

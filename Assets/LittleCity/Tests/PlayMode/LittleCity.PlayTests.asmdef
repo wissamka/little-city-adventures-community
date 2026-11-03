@@ -1,0 +1,12 @@
+{
+  "name": "LittleCity.PlayTests",
+  "references": [
+    "LittleCity.Runtime",
+    "UnityEngine.UI",
+    "Unity.TextMeshPro"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": false
+}
